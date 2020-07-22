@@ -2,6 +2,6 @@
 
 
 def engage
- prints "Captain's Log, star date"
+ print "Captain's Log, star date"
 end
 
